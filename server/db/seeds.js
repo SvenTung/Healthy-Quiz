@@ -49,8 +49,8 @@ db.questions.insertMany([{
     responseText: "Both options have around the same amount of cholesterol",
     url1: "http://localhost:8080/img/egg.png",
     url2: "http://localhost:8080/img/steak.png",
-    totalResponses1: 84,
-    totalResponses2: 76
+    totalResponses1: 67,
+    totalResponses2: 83
   },
 
   {
